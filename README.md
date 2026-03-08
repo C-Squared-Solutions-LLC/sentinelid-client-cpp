@@ -1,1 +1,0 @@
-# sentinelid-client-cpp
